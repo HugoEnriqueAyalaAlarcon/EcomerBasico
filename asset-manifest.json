@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EcomerBasico/static/css/main.aa2fd4a7.css",
+    "main.js": "/EcomerBasico/static/js/main.a3df219d.js",
+    "index.html": "/EcomerBasico/index.html",
+    "main.aa2fd4a7.css.map": "/EcomerBasico/static/css/main.aa2fd4a7.css.map",
+    "main.a3df219d.js.map": "/EcomerBasico/static/js/main.a3df219d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa2fd4a7.css",
+    "static/js/main.a3df219d.js"
+  ]
+}
