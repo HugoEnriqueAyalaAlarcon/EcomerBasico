@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Bujia",
+        "price": 100,
+        "discount": 30,
+        "url":"https://picsum.photos/180"
+    },
+    {
+        "id": 2,
+        "name": "Aceite",
+        "price": 100,
+        "discount": 30,
+        "url":"https://picsum.photos/180"
+    },
+    {
+        "id": 3,
+        "name": "llanta",
+        "price": 100,
+        "discount": 30,
+        "url":"https://picsum.photos/180"
+    },
+    {
+        "id": 4,
+        "name": "filtro",
+        "price": 100,
+        "discount": 30,
+        "url":"https://picsum.photos/180"
+    },
+    {
+        "id": 5,
+        "name": "Espejo",
+        "price": 100,
+        "discount": 30,
+        "url":"https://picsum.photos/180"
+    },
+    {
+        "id": 6,
+        "name": "Balata",
+        "price": 100,
+        "discount": 30,
+        "url":"https://picsum.photos/180"
+    },
+    {
+        "id": 7,
+        "name": "Filtro Altoflujo",
+        "price": 100,
+        "discount": 30,
+        "url":"https://picsum.photos/180"
+    },
+    {
+        "id": 8,
+        "name": "Valatas Ft150",
+        "price": 100,
+        "discount": 30,
+        "url":"https://picsum.photos/180"
+    }
+]

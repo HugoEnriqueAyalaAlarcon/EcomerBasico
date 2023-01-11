@@ -1,0 +1,37 @@
+.products-section{
+    background-color: var(--conatiner);
+    width: 510px;
+    margin: 30px auto;
+    padding: 24PX;
+    min-height: 400px;
+    border-radius: 16px;
+}
+
+.products-title{
+    font-family: monospace;
+    margin-bottom: 16px;
+    color: var(--text);
+}
+
+.products-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+}
+
+@media (min-width: 534px){
+    .products-section{
+        width: 522px;
+    }
+}
+@media (min-width: 760px){
+    .products-section{
+        width: 740px;
+    }
+}
+
+@media (min-width: 990px){
+    .products-section{
+        width: 970px;
+    }
+}

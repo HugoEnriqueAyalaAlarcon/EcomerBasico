@@ -1,0 +1,14 @@
+.Discount{
+    background-color: var(--secundary);
+    color: var(--white);
+    font-size: 12px;
+    height: 20px;
+    width: 40px;
+    position: absolute;
+    top: 0 ;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
